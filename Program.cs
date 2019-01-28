@@ -3,8 +3,6 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-//based on https://gist.github.com/davidsheardown/6781a4c45eaf85917392678d7c3993d6
-
 namespace encrypt
 {
     class Program
